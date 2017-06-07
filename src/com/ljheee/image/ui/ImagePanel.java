@@ -1,4 +1,4 @@
-package com.ljheee.inage.ui;
+package com.ljheee.image.ui;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;

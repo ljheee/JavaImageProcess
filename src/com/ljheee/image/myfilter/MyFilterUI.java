@@ -1,4 +1,4 @@
-package com.ljheee.inage.myfilter;
+package com.ljheee.image.myfilter;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
